@@ -35,7 +35,7 @@ Write program to count number of characters, words, space, and number using Lex.
 
 EXPERIMENT 9:
 
-Program to check total number of vowels using Lex.
+Write a LEX program to remove single line and multiline comments.
 
 EXPERIMENT 10:
 
