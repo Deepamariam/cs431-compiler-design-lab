@@ -42,5 +42,6 @@ int main()
     scanf("%s", inp);
     printf("Oprtr\tDestn\tOp1\tOp2\n");
     gen_code(inp);
+    
 }
 
